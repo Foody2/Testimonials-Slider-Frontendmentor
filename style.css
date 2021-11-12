@@ -226,7 +226,7 @@ h3 {
   .arrows {
     display: flex;
     position: absolute;
-    top: 680px;
+    top: 660px;
     left: 60%;
     transform: translateX(-60%);
   }
